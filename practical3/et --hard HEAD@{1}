@@ -1,0 +1,34 @@
+[33m76836f0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: uploaded
+[33m14a0dde[m HEAD@{1}: rebase (finish): returning to refs/heads/main
+[33m14a0dde[m HEAD@{2}: rebase (pick): uploaded
+[33me7069c9[m HEAD@{3}: rebase (pick): Calci version 2 updated
+[33m9440bca[m HEAD@{4}: rebase (pick): my first simple gui calculator using netbeans
+[33m1879bcc[m HEAD@{5}: rebase (pick): netbeans heirarchy
+[33m7d7de43[m HEAD@{6}: rebase (pick): Sudoku game
+[33m778871a[m HEAD@{7}: rebase (pick): Sudoku game
+[33m7fb4e58[m HEAD@{8}: rebase (pick): Sudoku game
+[33m9713e1a[m HEAD@{9}: rebase (pick): practical 9 time analysis of different methods
+[33me5dc0aa[m HEAD@{10}: rebase (pick): practical 8 patterns using recurssion
+[33mff33f5f[m HEAD@{11}: rebase (pick): practical 8 patterns using recurssion
+[33ma925a51[m HEAD@{12}: rebase (pick): practical 8 patterns using recurssion submitted
+[33m65de1ef[m HEAD@{13}: rebase (pick): practical 8 patterns using recurssion submitted
+[33m706f5cb[m HEAD@{14}: rebase (pick): Command line argument as of size required to run
+[33mf054d23[m HEAD@{15}: rebase (pick): Command line argument as of size required to run
+[33m2df1724[m HEAD@{16}: rebase (pick): Command line argument as of size required to run
+[33m4b0dca7[m HEAD@{17}: rebase (pick): String getName(int size) method created
+[33m39d488f[m HEAD@{18}: rebase (pick): pattern problems
+[33m28867d6[m HEAD@{19}: rebase (start): checkout 28867d6
+[33mee6e8b4[m HEAD@{20}: rebase (abort): returning to refs/heads/main
+[33m28867d6[m HEAD@{21}: rebase (start): checkout 28867d6
+[33mee6e8b4[m HEAD@{22}: rebase (finish): returning to refs/heads/main
+[33mee6e8b4[m HEAD@{23}: rebase (pick): uploaded
+[33m4525907[m HEAD@{24}: rebase (pick): Calci version 2 updated
+[33m02750bf[m HEAD@{25}: rebase (pick): my first simple gui calculator using netbeans
+[33m6f28b84[m HEAD@{26}: rebase (pick): netbeans heirarchy
+[33mc3727e0[m HEAD@{27}: rebase (pick): Sudoku game
+[33m07f9f7e[m HEAD@{28}: rebase (pick): Sudoku game
+[33m8846770[m HEAD@{29}: rebase (pick): Sudoku game
+[33medc403c[m HEAD@{30}: rebase (pick): practical 9 time analysis of different methods
+[33m3d1b30a[m HEAD@{31}: rebase (pick): practical 8 patterns using recurssion
+[33m5c5b6d9[m HEAD@{32}: rebase (start): checkout 2771a3d
+[33m1db4bdc[m HEAD@{33}: clone: from https://github.com/KrushnaIngale/JAVA-Practical.git
